@@ -1,1 +1,1 @@
-This repository is used to generate yum mirrorlists for repoforge project.
+This repository is used to generate yum mirrorlists for RepoForge project.
