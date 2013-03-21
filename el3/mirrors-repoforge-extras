@@ -15,6 +15,7 @@ http://kartolo.sby.datautama.net.id/repoforge/redhat/el3/en/$ARCH/extras
 http://merlin.fit.vutbr.cz/mirrors/repoforge/redhat/el3/en/$ARCH/extras
 http://mir01.syntis.net/repoforge/redhat/el3/en/$ARCH/extras
 http://mirror-fpt-telecom.fpt.net/repoforge/redhat/el3/en/$ARCH/extras
+http://mirror.atrpms.net/repoforge/redhat/el3/en/$ARCH/extras
 http://mirror.awanti.com/rpmforge/dag/redhat/el3/en/$ARCH/extras
 http://mirror.chpc.utah.edu/pub/repoforge/redhat/el3/en/$ARCH/extras
 http://mirror.cpsc.ucalgary.ca/mirror/dag/redhat/el3/en/$ARCH/extras
@@ -25,7 +26,6 @@ http://mirror.lug.udel.edu/pub/dag/redhat/el3/en/$ARCH/extras
 http://mirror.nexcess.net/repoforge/redhat/el3/en/$ARCH/extras
 http://mirror.nl.leaseweb.net/dag/redhat/el3/en/$ARCH/extras
 http://mirror.rit.edu/dag/redhat/el3/en/$ARCH/extras
-http://mirror.siamdata.co.th/repoforge/redhat/el3/en/$ARCH/extras
 http://mirror.team-cymru.org/rpmforge/redhat/el3/en/$ARCH/extras
 http://mirror.teklinks.com/repoforge/redhat/el3/en/$ARCH/extras
 http://mirror.teljet.net/repoforge/redhat/el3/en/$ARCH/extras
