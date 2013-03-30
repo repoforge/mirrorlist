@@ -15,7 +15,6 @@ http://mir01.syntis.net/repoforge/redhat/el3/en/$ARCH/rpmforge
 http://mirror.atrpms.net/repoforge/redhat/el3/en/$ARCH/rpmforge
 http://mirror.awanti.com/rpmforge/dag/redhat/el3/en/$ARCH/rpmforge
 http://mirror.chpc.utah.edu/pub/repoforge/redhat/el3/en/$ARCH/rpmforge
-http://mirror.cpsc.ucalgary.ca/mirror/dag/redhat/el3/en/$ARCH/rpmforge
 http://mirror.de.leaseweb.net/dag/redhat/el3/en/$ARCH/rpmforge
 http://mirror.hmc.edu/repoforge/redhat/el3/en/$ARCH/rpmforge
 http://mirror.jgotteswinter.com/rpmforge/redhat/el3/en/$ARCH/rpmforge
@@ -40,7 +39,6 @@ http://mirrors.neusoft.edu.cn/repoforge/redhat/el3/en/$ARCH/rpmforge
 http://nl.mirror.eurid.eu/rpmforge/redhat/el3/en/$ARCH/rpmforge
 http://repoforge.cu.be/redhat/el3/en/$ARCH/rpmforge
 http://repoforge.eecs.wsu.edu/redhat/el3/en/$ARCH/rpmforge
-http://repoforge.ip-connect.vn.ua/redhat/el3/en/$ARCH/rpmforge
 http://repoforge.mirror.constant.com/redhat/el3/en/$ARCH/rpmforge
 http://repoforge.softded.ru/redhat/el3/en/$ARCH/rpmforge
 http://repoforge.xpg.com.br/redhat/el3/en/$ARCH/rpmforge
