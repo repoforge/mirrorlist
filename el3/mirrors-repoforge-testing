@@ -41,6 +41,7 @@ http://repoforge.cu.be/redhat/el3/en/$ARCH/testing
 http://repoforge.eecs.wsu.edu/redhat/el3/en/$ARCH/testing
 http://repoforge.mirror.constant.com/redhat/el3/en/$ARCH/testing
 http://repoforge.softded.ru/redhat/el3/en/$ARCH/testing
+http://repoforge.spinellicreations.com/redhat/el3/en/$ARCH/testing
 http://repoforge.xpg.com.br/redhat/el3/en/$ARCH/testing
 http://repository.vsb.cz/mirrors/repoforge/redhat/el3/en/$ARCH/testing
 http://www.mirrorservice.org/sites/apt.sw.be/redhat/el3/en/$ARCH/testing
