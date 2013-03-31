@@ -22,6 +22,7 @@ http://mirror.hmc.edu/repoforge/redhat/el6/en/$ARCH/testing
 http://mirror.jgotteswinter.com/rpmforge/redhat/el6/en/$ARCH/testing
 http://mirror.nexcess.net/repoforge/redhat/el6/en/$ARCH/testing
 http://mirror.nl.leaseweb.net/dag/redhat/el6/en/$ARCH/testing
+http://mirror.oscc.org.my/dag/redhat/el6/en/$ARCH/testing
 http://mirror.rit.edu/dag/redhat/el6/en/$ARCH/testing
 http://mirror.siamdata.co.th/repoforge/redhat/el6/en/$ARCH/testing
 http://mirror.team-cymru.org/rpmforge/redhat/el6/en/$ARCH/testing
@@ -42,7 +43,6 @@ http://repoforge.cu.be/redhat/el6/en/$ARCH/testing
 http://repoforge.eecs.wsu.edu/redhat/el6/en/$ARCH/testing
 http://repoforge.mirror.constant.com/redhat/el6/en/$ARCH/testing
 http://repoforge.softded.ru/redhat/el6/en/$ARCH/testing
-http://repoforge.spinellicreations.com/redhat/el6/en/$ARCH/testing
 http://repoforge.xpg.com.br/redhat/el6/en/$ARCH/testing
 http://repository.vsb.cz/mirrors/repoforge/redhat/el6/en/$ARCH/testing
 http://www.mirrorservice.org/sites/apt.sw.be/redhat/el6/en/$ARCH/testing
