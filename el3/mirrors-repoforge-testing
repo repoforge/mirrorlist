@@ -14,7 +14,6 @@ http://ftp.tu-chemnitz.de/pub/linux/dag/redhat/el3/en/$ARCH/testing
 http://kartolo.sby.datautama.net.id/repoforge/redhat/el3/en/$ARCH/testing
 http://merlin.fit.vutbr.cz/mirrors/repoforge/redhat/el3/en/$ARCH/testing
 http://mir01.syntis.net/repoforge/redhat/el3/en/$ARCH/testing
-http://mirror.atrpms.net/repoforge/redhat/el3/en/$ARCH/testing
 http://mirror.awanti.com/rpmforge/dag/redhat/el3/en/$ARCH/testing
 http://mirror.chpc.utah.edu/pub/repoforge/redhat/el3/en/$ARCH/testing
 http://mirror.de.leaseweb.net/dag/redhat/el3/en/$ARCH/testing
@@ -22,7 +21,6 @@ http://mirror.hmc.edu/repoforge/redhat/el3/en/$ARCH/testing
 http://mirror.jgotteswinter.com/rpmforge/redhat/el3/en/$ARCH/testing
 http://mirror.nexcess.net/repoforge/redhat/el3/en/$ARCH/testing
 http://mirror.nl.leaseweb.net/dag/redhat/el3/en/$ARCH/testing
-http://mirror.oscc.org.my/dag/redhat/el3/en/$ARCH/testing
 http://mirror.rit.edu/dag/redhat/el3/en/$ARCH/testing
 http://mirror.siamdata.co.th/repoforge/redhat/el3/en/$ARCH/testing
 http://mirror.team-cymru.org/rpmforge/redhat/el3/en/$ARCH/testing
