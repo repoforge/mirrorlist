@@ -13,10 +13,12 @@ http://ftp.riken.jp/Linux/repoforge/redhat/el4/en/$ARCH/testing
 http://ftp.tu-chemnitz.de/pub/linux/dag/redhat/el4/en/$ARCH/testing
 http://merlin.fit.vutbr.cz/mirrors/repoforge/redhat/el4/en/$ARCH/testing
 http://mir01.syntis.net/repoforge/redhat/el4/en/$ARCH/testing
+http://mirror.atrpms.net/repoforge/redhat/el4/en/$ARCH/testing
 http://mirror.chpc.utah.edu/pub/repoforge/redhat/el4/en/$ARCH/testing
 http://mirror.de.leaseweb.net/dag/redhat/el4/en/$ARCH/testing
 http://mirror.hmc.edu/repoforge/redhat/el4/en/$ARCH/testing
 http://mirror.jgotteswinter.com/rpmforge/redhat/el4/en/$ARCH/testing
+http://mirror.lug.udel.edu/pub/dag/redhat/el4/en/$ARCH/testing
 http://mirror.nexcess.net/repoforge/redhat/el4/en/$ARCH/testing
 http://mirror.nl.leaseweb.net/dag/redhat/el4/en/$ARCH/testing
 http://mirror.oscc.org.my/dag/redhat/el4/en/$ARCH/testing
