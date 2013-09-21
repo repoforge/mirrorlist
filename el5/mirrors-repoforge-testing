@@ -1,5 +1,9 @@
 http://ftp.riken.jp/Linux/repoforge/redhat/el5/en/$ARCH/testing
+http://mirror.jgotteswinter.com/rpmforge/redhat/el5/en/$ARCH/testing
 http://mirror.siamdata.co.th/repoforge/redhat/el5/en/$ARCH/testing
+http://mirror.team-cymru.org/rpmforge/redhat/el5/en/$ARCH/testing
 http://mirror.web24.net.au/centos/redhat/el5/en/$ARCH/testing
+http://mirror1.hs-esslingen.de/repoforge/redhat/el5/en/$ARCH/testing
+http://mirrors.neterra.net/repoforge/redhat/el5/en/$ARCH/testing
 http://repoforge.eecs.wsu.edu/redhat/el5/en/$ARCH/testing
 http://repository.vsb.cz/mirrors/repoforge/redhat/el5/en/$ARCH/testing
