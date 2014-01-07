@@ -7,7 +7,6 @@ http://ftp.heanet.ie/mirrors/ftp.freshrpms.net/pub/dag/redhat/el5/en/$ARCH/testi
 http://ftp.is.co.za/mirror/ftp.rpmforge.net/redhat/el5/en/$ARCH/testing
 http://ftp.kddilabs.jp/Linux/RPMS/repoforge/redhat/el5/en/$ARCH/testing
 http://ftp.nluug.nl/os/Linux/distr/repoforge/redhat/el5/en/$ARCH/testing
-http://ftp.riken.jp/Linux/repoforge/redhat/el5/en/$ARCH/testing
 http://kartolo.sby.datautama.net.id/repoforge/redhat/el5/en/$ARCH/testing
 http://merlin.fit.vutbr.cz/mirrors/repoforge/redhat/el5/en/$ARCH/testing
 http://mir01.syntis.net/repoforge/redhat/el5/en/$ARCH/testing
@@ -23,7 +22,6 @@ http://mirror.crazynetwork.it/repoforge/redhat/el5/en/$ARCH/testing
 http://mirror.de.leaseweb.net/dag/redhat/el5/en/$ARCH/testing
 http://mirror.hmc.edu/repoforge/redhat/el5/en/$ARCH/testing
 http://mirror.jgotteswinter.com/rpmforge/redhat/el5/en/$ARCH/testing
-http://mirror.ndc.mn/repoforge/redhat/el5/en/$ARCH/testing
 http://mirror.nexcess.net/repoforge/redhat/el5/en/$ARCH/testing
 http://mirror.nl.leaseweb.net/dag/redhat/el5/en/$ARCH/testing
 http://mirror.rit.edu/dag/redhat/el5/en/$ARCH/testing
