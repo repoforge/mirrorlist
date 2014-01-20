@@ -4,6 +4,8 @@ http://ftp.cc.uoc.gr/mirrors/repoforge/redhat/el5/en/$ARCH/rpmforge
 http://ftp.colocall.net/pub/repoforge/redhat/el5/en/$ARCH/rpmforge
 http://ftp.fi.muni.cz/pub/linux/repoforge/redhat/el5/en/$ARCH/rpmforge
 http://ftp.heanet.ie/mirrors/ftp.freshrpms.net/pub/dag/redhat/el5/en/$ARCH/rpmforge
+http://ftp.is.co.za/mirror/ftp.rpmforge.net/redhat/el5/en/$ARCH/rpmforge
+http://ftp.kddilabs.jp/Linux/RPMS/repoforge/redhat/el5/en/$ARCH/rpmforge
 http://ftp.lug.ro/freshrpms/dag/redhat/el5/en/$ARCH/rpmforge
 http://ftp.neowiz.com/repoforge/redhat/el5/en/$ARCH/rpmforge
 http://ftp.nluug.nl/os/Linux/distr/repoforge/redhat/el5/en/$ARCH/rpmforge
@@ -13,6 +15,7 @@ http://kartolo.sby.datautama.net.id/repoforge/redhat/el5/en/$ARCH/rpmforge
 http://merlin.fit.vutbr.cz/mirrors/repoforge/redhat/el5/en/$ARCH/rpmforge
 http://mir01.syntis.net/repoforge/redhat/el5/en/$ARCH/rpmforge
 http://mirror-fpt-telecom.fpt.net/repoforge/redhat/el5/en/$ARCH/rpmforge
+http://mirror.agmn.ca/mirror/repoforge/redhat/el5/en/$ARCH/rpmforge
 http://mirror.as24220.net/pub/repoforge/redhat/el5/en/$ARCH/rpmforge
 http://mirror.ate.info/dag/redhat/el5/en/$ARCH/rpmforge
 http://mirror.atrpms.net/repoforge/redhat/el5/en/$ARCH/rpmforge
