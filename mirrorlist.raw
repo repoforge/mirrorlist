@@ -1,5 +1,4 @@
 http://archive.cs.uu.nl/mirror/dag.wieers/
-http://be.mirror.eurid.eu/rpmforge/
 http://fr2.rpmfind.net/linux/dag/
 http://ftp.cc.uoc.gr/mirrors/repoforge/
 http://ftp.colocall.net/pub/repoforge/
@@ -9,8 +8,8 @@ http://ftp.is.co.za/mirror/ftp.rpmforge.net/
 http://ftp.kddilabs.jp/Linux/RPMS/repoforge/
 http://ftp.lug.ro/freshrpms/dag/
 http://ftp.neowiz.com/repoforge/
+http://ftp.nluug.nl/os/Linux/distr/repoforge/
 http://ftp.riken.jp/Linux/repoforge/
-http://ftp.tu-chemnitz.de/pub/linux/dag/
 http://kartolo.sby.datautama.net.id/repoforge/
 http://mir01.syntis.net/repoforge/
 http://mirror.agmn.ca/mirror/repoforge/
@@ -23,20 +22,18 @@ http://mirror.cpsc.ucalgary.ca/mirror/dag/
 http://mirror.de.leaseweb.net/dag/
 http://mirror.hmc.edu/repoforge/
 http://mirror.jgotteswinter.com/rpmforge/
-http://mirror.lug.udel.edu/pub/dag/
 http://mirror.nl.leaseweb.net/dag/
-http://mirror.oss.maxcdn.com/repoforge/
 http://mirror.rit.edu/dag/
 http://mirror.smartmedia.net.id/repoforge/
 http://mirror.team-cymru.org/rpmforge/
 http://mirror.us.leaseweb.net/dag/
 http://mirror.ventraip.net.au/repoforge/
 http://mirror.web24.net.au/centos/
+http://mirror.zetup.net/repoforge/
 http://mirror1.hs-esslingen.de/repoforge/
 http://mirrors.ispros.com.bd/repoforge/
 http://mirrors.neterra.net/repoforge/
 http://mirrors.neusoft.edu.cn/repoforge/
-http://nl.mirror.eurid.eu/rpmforge/
 http://repoforge.eecs.wsu.edu/
 http://repoforge.mirror.constant.com/
 http://www.mirrorservice.org/sites/apt.sw.be/
