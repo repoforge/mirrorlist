@@ -21,6 +21,7 @@ http://mirror.as24220.net/pub/repoforge/redhat/el4/en/$ARCH/testing
 http://mirror.awanti.com/rpmforge/dag/redhat/el4/en/$ARCH/testing
 http://mirror.bacloud.com/repoforge/redhat/el4/en/$ARCH/testing
 http://mirror.chpc.utah.edu/pub/repoforge/redhat/el4/en/$ARCH/testing
+http://mirror.crazynetwork.it/repoforge/redhat/el4/en/$ARCH/testing
 http://mirror.de.leaseweb.net/dag/redhat/el4/en/$ARCH/testing
 http://mirror.hmc.edu/repoforge/redhat/el4/en/$ARCH/testing
 http://mirror.nexcess.net/repoforge/redhat/el4/en/$ARCH/testing
@@ -36,7 +37,6 @@ http://mirror.web24.net.au/centos/redhat/el4/en/$ARCH/testing
 http://mirror.webnx.com/dag/redhat/el4/en/$ARCH/testing
 http://mirror.zetup.net/repoforge/redhat/el4/en/$ARCH/testing
 http://mirror1.hs-esslingen.de/repoforge/redhat/el4/en/$ARCH/testing
-http://mirrors.digipower.vn/repoforge/redhat/el4/en/$ARCH/testing
 http://mirrors.ircam.fr/pub/dag/redhat/el4/en/$ARCH/testing
 http://mirrors.ispros.com.bd/repoforge/redhat/el4/en/$ARCH/testing
 http://mirrors.neterra.net/repoforge/redhat/el4/en/$ARCH/testing
