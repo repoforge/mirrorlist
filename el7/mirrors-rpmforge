@@ -14,6 +14,7 @@ http://ftp.tu-chemnitz.de/pub/linux/dag/redhat/el7/en/$ARCH/rpmforge
 http://ftp.wa.co.za/pub/repoforge/redhat/el7/en/$ARCH/rpmforge
 http://kartolo.sby.datautama.net.id/repoforge/redhat/el7/en/$ARCH/rpmforge
 http://merlin.fit.vutbr.cz/mirrors/repoforge/redhat/el7/en/$ARCH/rpmforge
+http://mir01.syntis.net/repoforge/redhat/el7/en/$ARCH/rpmforge
 http://miroir.univ-paris13.fr/repoforge/redhat/el7/en/$ARCH/rpmforge
 http://mirror-fpt-telecom.fpt.net/repoforge/redhat/el7/en/$ARCH/rpmforge
 http://mirror.awanti.com/rpmforge/dag/redhat/el7/en/$ARCH/rpmforge
@@ -51,6 +52,5 @@ http://repoforge.gtdinternet.com/redhat/el7/en/$ARCH/rpmforge
 http://repoforge.ip-connect.vn.ua/redhat/el7/en/$ARCH/rpmforge
 http://repoforge.mirror.constant.com/redhat/el7/en/$ARCH/rpmforge
 http://repoforge.mirror.net.in/repoforge/redhat/el7/en/$ARCH/rpmforge
-http://repoforge.spinellicreations.com/redhat/el7/en/$ARCH/rpmforge
 http://repoforge.xpg.com.br/redhat/el7/en/$ARCH/rpmforge
 http://www.mirrorservice.org/sites/apt.sw.be/redhat/el7/en/$ARCH/rpmforge
