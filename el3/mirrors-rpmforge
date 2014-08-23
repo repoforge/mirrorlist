@@ -2,6 +2,7 @@ http://be.mirror.eurid.eu/rpmforge/redhat/el3/en/$ARCH/rpmforge
 http://fr2.rpmfind.net/linux/dag/redhat/el3/en/$ARCH/rpmforge
 http://ftp.cc.uoc.gr/mirrors/repoforge/redhat/el3/en/$ARCH/rpmforge
 http://ftp.colocall.net/pub/repoforge/redhat/el3/en/$ARCH/rpmforge
+http://ftp.fi.muni.cz/pub/linux/repoforge/redhat/el3/en/$ARCH/rpmforge
 http://ftp.heanet.ie/mirrors/ftp.freshrpms.net/pub/dag/redhat/el3/en/$ARCH/rpmforge
 http://ftp.kddilabs.jp/Linux/RPMS/repoforge/redhat/el3/en/$ARCH/rpmforge
 http://ftp.neowiz.com/repoforge/redhat/el3/en/$ARCH/rpmforge
