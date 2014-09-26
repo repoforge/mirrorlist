@@ -3,7 +3,6 @@ http://be.mirror.eurid.eu/rpmforge/
 http://fr2.rpmfind.net/linux/dag/
 http://ftp.cc.uoc.gr/mirrors/repoforge/
 http://ftp.colocall.net/pub/repoforge/
-http://ftp.fi.muni.cz/pub/linux/repoforge/
 http://ftp.heanet.ie/mirrors/ftp.freshrpms.net/pub/dag/
 http://ftp.kddilabs.jp/Linux/RPMS/repoforge/
 http://ftp.lug.ro/freshrpms/dag/
@@ -30,6 +29,7 @@ http://mirror.hmc.edu/repoforge/
 http://mirror.lug.udel.edu/pub/dag/
 http://mirror.nexcess.net/repoforge/
 http://mirror.nl.leaseweb.net/dag/
+http://mirror.oss.maxcdn.com/repoforge/
 http://mirror.rit.edu/dag/
 http://mirror.smartmedia.net.id/repoforge/
 http://mirror.team-cymru.org/rpmforge/
@@ -43,7 +43,6 @@ http://mirror.zetup.net/repoforge/
 http://mirror1.hs-esslingen.de/repoforge/
 http://mirrors.digipower.vn/repoforge/
 http://mirrors.ircam.fr/pub/dag/
-http://mirrors.ispros.com.bd/repoforge/
 http://mirrors.neterra.net/repoforge/
 http://mirrors.neusoft.edu.cn/repoforge/
 http://nl.mirror.eurid.eu/rpmforge/
