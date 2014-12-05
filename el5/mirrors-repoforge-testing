@@ -1,7 +1,5 @@
-http://be.mirror.eurid.eu/rpmforge/redhat/el5/en/$ARCH/testing
 http://fr2.rpmfind.net/linux/dag/redhat/el5/en/$ARCH/testing
 http://ftp.cc.uoc.gr/mirrors/repoforge/redhat/el5/en/$ARCH/testing
-http://ftp.colocall.net/pub/repoforge/redhat/el5/en/$ARCH/testing
 http://ftp.fi.muni.cz/pub/linux/repoforge/redhat/el5/en/$ARCH/testing
 http://ftp.heanet.ie/mirrors/ftp.freshrpms.net/pub/dag/redhat/el5/en/$ARCH/testing
 http://ftp.neowiz.com/repoforge/redhat/el5/en/$ARCH/testing
@@ -14,7 +12,6 @@ http://merlin.fit.vutbr.cz/mirrors/repoforge/redhat/el5/en/$ARCH/testing
 http://mir01.syntis.net/repoforge/redhat/el5/en/$ARCH/testing
 http://miroir.univ-paris13.fr/repoforge/redhat/el5/en/$ARCH/testing
 http://mirror-fpt-telecom.fpt.net/repoforge/redhat/el5/en/$ARCH/testing
-http://mirror.as24220.net/pub/repoforge/redhat/el5/en/$ARCH/testing
 http://mirror.ate.info/dag/redhat/el5/en/$ARCH/testing
 http://mirror.bacloud.com/repoforge/redhat/el5/en/$ARCH/testing
 http://mirror.chpc.utah.edu/pub/repoforge/redhat/el5/en/$ARCH/testing
@@ -33,7 +30,6 @@ http://mirror.teklinks.com/repoforge/redhat/el5/en/$ARCH/testing
 http://mirror.us.leaseweb.net/dag/redhat/el5/en/$ARCH/testing
 http://mirror.ventraip.net.au/repoforge/redhat/el5/en/$ARCH/testing
 http://mirror.vutbr.cz/repoforge/redhat/el5/en/$ARCH/testing
-http://mirror.web24.net.au/centos/redhat/el5/en/$ARCH/testing
 http://mirror.webnx.com/dag/redhat/el5/en/$ARCH/testing
 http://mirror.zetup.net/repoforge/redhat/el5/en/$ARCH/testing
 http://mirror1.hs-esslingen.de/repoforge/redhat/el5/en/$ARCH/testing
@@ -41,7 +37,6 @@ http://mirrors.digipower.vn/repoforge/redhat/el5/en/$ARCH/testing
 http://mirrors.ircam.fr/pub/dag/redhat/el5/en/$ARCH/testing
 http://mirrors.ispros.com.bd/repoforge/redhat/el5/en/$ARCH/testing
 http://mirrors.neterra.net/repoforge/redhat/el5/en/$ARCH/testing
-http://mirrors.neusoft.edu.cn/repoforge/redhat/el5/en/$ARCH/testing
 http://nl.mirror.eurid.eu/rpmforge/redhat/el5/en/$ARCH/testing
 http://repoforge.cu.be/redhat/el5/en/$ARCH/testing
 http://repoforge.eecs.wsu.edu/redhat/el5/en/$ARCH/testing
