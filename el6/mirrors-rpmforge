@@ -6,6 +6,7 @@ http://ftp.colocall.net/pub/repoforge/redhat/el6/en/$ARCH/rpmforge
 http://ftp.fi.muni.cz/pub/linux/repoforge/redhat/el6/en/$ARCH/rpmforge
 http://ftp.heanet.ie/mirrors/ftp.freshrpms.net/pub/dag/redhat/el6/en/$ARCH/rpmforge
 http://ftp.lug.ro/freshrpms/dag/redhat/el6/en/$ARCH/rpmforge
+http://ftp.neowiz.com/repoforge/redhat/el6/en/$ARCH/rpmforge
 http://ftp.nluug.nl/os/Linux/distr/repoforge/redhat/el6/en/$ARCH/rpmforge
 http://ftp.riken.jp/Linux/repoforge/redhat/el6/en/$ARCH/rpmforge
 http://ftp.tu-chemnitz.de/pub/linux/dag/redhat/el6/en/$ARCH/rpmforge
@@ -50,5 +51,6 @@ http://repoforge.gtdinternet.com/redhat/el6/en/$ARCH/rpmforge
 http://repoforge.ip-connect.vn.ua/redhat/el6/en/$ARCH/rpmforge
 http://repoforge.mirror.constant.com/redhat/el6/en/$ARCH/rpmforge
 http://repoforge.mirror.digitalpacific.com.au/redhat/el6/en/$ARCH/rpmforge
+http://repoforge.spinellicreations.com/redhat/el6/en/$ARCH/rpmforge
 http://repoforge.xpg.com.br/redhat/el6/en/$ARCH/rpmforge
 http://www.mirrorservice.org/sites/apt.sw.be/redhat/el6/en/$ARCH/rpmforge
