@@ -16,7 +16,6 @@ http://mirror.as24220.net/pub/repoforge/redhat/el7/en/$ARCH/rpmforge
 http://mirror.ate.info/dag/redhat/el7/en/$ARCH/rpmforge
 http://mirror.atrpms.net/repoforge/redhat/el7/en/$ARCH/rpmforge
 http://mirror.bacloud.com/repoforge/redhat/el7/en/$ARCH/rpmforge
-http://mirror.cpsc.ucalgary.ca/mirror/dag/redhat/el7/en/$ARCH/rpmforge
 http://mirror.crazynetwork.it/repoforge/redhat/el7/en/$ARCH/rpmforge
 http://mirror.datacenter.mn/repoforge/redhat/el7/en/$ARCH/rpmforge
 http://mirror.de.leaseweb.net/dag/redhat/el7/en/$ARCH/rpmforge
@@ -24,6 +23,7 @@ http://mirror.fairway.ne.jp/dag/redhat/el7/en/$ARCH/rpmforge
 http://mirror.hmc.edu/repoforge/redhat/el7/en/$ARCH/rpmforge
 http://mirror.nexcess.net/repoforge/redhat/el7/en/$ARCH/rpmforge
 http://mirror.nl.leaseweb.net/dag/redhat/el7/en/$ARCH/rpmforge
+http://mirror.oscc.org.my/dag/redhat/el7/en/$ARCH/rpmforge
 http://mirror.oss.maxcdn.com/repoforge/redhat/el7/en/$ARCH/rpmforge
 http://mirror.rit.edu/dag/redhat/el7/en/$ARCH/rpmforge
 http://mirror.smartmedia.net.id/repoforge/redhat/el7/en/$ARCH/rpmforge
