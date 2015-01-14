@@ -4,6 +4,7 @@ http://ftp.cc.uoc.gr/mirrors/repoforge/redhat/el4/en/$ARCH/rpmforge
 http://ftp.colocall.net/pub/repoforge/redhat/el4/en/$ARCH/rpmforge
 http://ftp.fi.muni.cz/pub/linux/repoforge/redhat/el4/en/$ARCH/rpmforge
 http://ftp.heanet.ie/mirrors/ftp.freshrpms.net/pub/dag/redhat/el4/en/$ARCH/rpmforge
+http://ftp.lug.ro/freshrpms/dag/redhat/el4/en/$ARCH/rpmforge
 http://ftp.neowiz.com/repoforge/redhat/el4/en/$ARCH/rpmforge
 http://ftp.nluug.nl/os/Linux/distr/repoforge/redhat/el4/en/$ARCH/rpmforge
 http://ftp.riken.jp/Linux/repoforge/redhat/el4/en/$ARCH/rpmforge
@@ -39,6 +40,7 @@ http://mirror1.hs-esslingen.de/repoforge/redhat/el4/en/$ARCH/rpmforge
 http://mirrors.digipower.vn/repoforge/redhat/el4/en/$ARCH/rpmforge
 http://mirrors.ircam.fr/pub/dag/redhat/el4/en/$ARCH/rpmforge
 http://mirrors.neterra.net/repoforge/redhat/el4/en/$ARCH/rpmforge
+http://mirrors.neusoft.edu.cn/repoforge/redhat/el4/en/$ARCH/rpmforge
 http://nl.mirror.eurid.eu/rpmforge/redhat/el4/en/$ARCH/rpmforge
 http://repoforge.cu.be/redhat/el4/en/$ARCH/rpmforge
 http://repoforge.eecs.wsu.edu/redhat/el4/en/$ARCH/rpmforge
