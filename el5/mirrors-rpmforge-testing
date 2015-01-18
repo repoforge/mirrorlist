@@ -15,7 +15,6 @@ http://merlin.fit.vutbr.cz/mirrors/repoforge/redhat/el5/en/$ARCH/testing
 http://miroir.univ-paris13.fr/repoforge/redhat/el5/en/$ARCH/testing
 http://mirror.as24220.net/pub/repoforge/redhat/el5/en/$ARCH/testing
 http://mirror.ate.info/dag/redhat/el5/en/$ARCH/testing
-http://mirror.atrpms.net/repoforge/redhat/el5/en/$ARCH/testing
 http://mirror.bacloud.com/repoforge/redhat/el5/en/$ARCH/testing
 http://mirror.crazynetwork.it/repoforge/redhat/el5/en/$ARCH/testing
 http://mirror.datacenter.mn/repoforge/redhat/el5/en/$ARCH/testing
@@ -42,8 +41,8 @@ http://mirrors.neusoft.edu.cn/repoforge/redhat/el5/en/$ARCH/testing
 http://nl.mirror.eurid.eu/rpmforge/redhat/el5/en/$ARCH/testing
 http://repoforge.cu.be/redhat/el5/en/$ARCH/testing
 http://repoforge.eecs.wsu.edu/redhat/el5/en/$ARCH/testing
+http://repoforge.gtdinternet.com/redhat/el5/en/$ARCH/testing
 http://repoforge.ip-connect.vn.ua/redhat/el5/en/$ARCH/testing
 http://repoforge.mirror.constant.com/redhat/el5/en/$ARCH/testing
 http://repoforge.mirror.digitalpacific.com.au/redhat/el5/en/$ARCH/testing
-http://repoforge.xpg.com.br/redhat/el5/en/$ARCH/testing
 http://www.mirrorservice.org/sites/apt.sw.be/redhat/el5/en/$ARCH/testing
