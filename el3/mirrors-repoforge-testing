@@ -43,6 +43,7 @@ http://mirror.zetup.net/repoforge/redhat/el3/en/$ARCH/testing
 http://mirror1.hs-esslingen.de/repoforge/redhat/el3/en/$ARCH/testing
 http://mirrors.ircam.fr/pub/dag/redhat/el3/en/$ARCH/testing
 http://mirrors.neterra.net/repoforge/redhat/el3/en/$ARCH/testing
+http://mirrors.neusoft.edu.cn/repoforge/redhat/el3/en/$ARCH/testing
 http://nl.mirror.eurid.eu/rpmforge/redhat/el3/en/$ARCH/testing
 http://repoforge.cu.be/redhat/el3/en/$ARCH/testing
 http://repoforge.eecs.wsu.edu/redhat/el3/en/$ARCH/testing
@@ -50,4 +51,5 @@ http://repoforge.ip-connect.vn.ua/redhat/el3/en/$ARCH/testing
 http://repoforge.mirror.constant.com/redhat/el3/en/$ARCH/testing
 http://repoforge.mirror.digitalpacific.com.au/redhat/el3/en/$ARCH/testing
 http://repoforge.spinellicreations.com/redhat/el3/en/$ARCH/testing
+http://repoforge.xpg.com.br/redhat/el3/en/$ARCH/testing
 http://www.mirrorservice.org/sites/apt.sw.be/redhat/el3/en/$ARCH/testing
