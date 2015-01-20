@@ -1,4 +1,3 @@
-http://archive.cs.uu.nl/mirror/dag.wieers/redhat/el3/en/$ARCH/testing
 http://be.mirror.eurid.eu/rpmforge/redhat/el3/en/$ARCH/testing
 http://fr2.rpmfind.net/linux/dag/redhat/el3/en/$ARCH/testing
 http://ftp.cc.uoc.gr/mirrors/repoforge/redhat/el3/en/$ARCH/testing
@@ -6,7 +5,6 @@ http://ftp.colocall.net/pub/repoforge/redhat/el3/en/$ARCH/testing
 http://ftp.fi.muni.cz/pub/linux/repoforge/redhat/el3/en/$ARCH/testing
 http://ftp.heanet.ie/mirrors/ftp.freshrpms.net/pub/dag/redhat/el3/en/$ARCH/testing
 http://ftp.kddilabs.jp/Linux/RPMS/repoforge/redhat/el3/en/$ARCH/testing
-http://ftp.lug.ro/freshrpms/dag/redhat/el3/en/$ARCH/testing
 http://ftp.neowiz.com/repoforge/redhat/el3/en/$ARCH/testing
 http://ftp.nluug.nl/os/Linux/distr/repoforge/redhat/el3/en/$ARCH/testing
 http://ftp.riken.jp/Linux/repoforge/redhat/el3/en/$ARCH/testing
@@ -50,5 +48,4 @@ http://repoforge.ip-connect.vn.ua/redhat/el3/en/$ARCH/testing
 http://repoforge.mirror.constant.com/redhat/el3/en/$ARCH/testing
 http://repoforge.mirror.digitalpacific.com.au/redhat/el3/en/$ARCH/testing
 http://repoforge.spinellicreations.com/redhat/el3/en/$ARCH/testing
-http://repoforge.xpg.com.br/redhat/el3/en/$ARCH/testing
 http://www.mirrorservice.org/sites/apt.sw.be/redhat/el3/en/$ARCH/testing
