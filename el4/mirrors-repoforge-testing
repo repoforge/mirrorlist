@@ -32,7 +32,6 @@ http://mirror.team-cymru.org/rpmforge/redhat/el4/en/$ARCH/testing
 http://mirror.teklinks.com/repoforge/redhat/el4/en/$ARCH/testing
 http://mirror.us.leaseweb.net/dag/redhat/el4/en/$ARCH/testing
 http://mirror.ventraip.net.au/repoforge/redhat/el4/en/$ARCH/testing
-http://mirror.vit.com.tr/mirror/repoforge/redhat/el4/en/$ARCH/testing
 http://mirror.vutbr.cz/repoforge/redhat/el4/en/$ARCH/testing
 http://mirror.web24.net.au/centos/redhat/el4/en/$ARCH/testing
 http://mirror.webnx.com/dag/redhat/el4/en/$ARCH/testing
@@ -48,4 +47,5 @@ http://repoforge.ip-connect.vn.ua/redhat/el4/en/$ARCH/testing
 http://repoforge.mirror.constant.com/redhat/el4/en/$ARCH/testing
 http://repoforge.mirror.digitalpacific.com.au/redhat/el4/en/$ARCH/testing
 http://repoforge.spinellicreations.com/redhat/el4/en/$ARCH/testing
+http://repoforge.xpg.com.br/redhat/el4/en/$ARCH/testing
 http://www.mirrorservice.org/sites/apt.sw.be/redhat/el4/en/$ARCH/testing
