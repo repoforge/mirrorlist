@@ -13,9 +13,9 @@ http://ftp.wa.co.za/pub/repoforge/redhat/el7/en/$ARCH/testing
 http://kartolo.sby.datautama.net.id/repoforge/redhat/el7/en/$ARCH/testing
 http://merlin.fit.vutbr.cz/mirrors/repoforge/redhat/el7/en/$ARCH/testing
 http://miroir.univ-paris13.fr/repoforge/redhat/el7/en/$ARCH/testing
+http://mirror-fpt-telecom.fpt.net/repoforge/redhat/el7/en/$ARCH/testing
 http://mirror.as24220.net/pub/repoforge/redhat/el7/en/$ARCH/testing
 http://mirror.ate.info/dag/redhat/el7/en/$ARCH/testing
-http://mirror.atrpms.net/repoforge/redhat/el7/en/$ARCH/testing
 http://mirror.bacloud.com/repoforge/redhat/el7/en/$ARCH/testing
 http://mirror.chpc.utah.edu/pub/repoforge/redhat/el7/en/$ARCH/testing
 http://mirror.crazynetwork.it/repoforge/redhat/el7/en/$ARCH/testing
@@ -40,6 +40,7 @@ http://mirror.zetup.net/repoforge/redhat/el7/en/$ARCH/testing
 http://mirror1.hs-esslingen.de/repoforge/redhat/el7/en/$ARCH/testing
 http://mirrors.ircam.fr/pub/dag/redhat/el7/en/$ARCH/testing
 http://mirrors.neterra.net/repoforge/redhat/el7/en/$ARCH/testing
+http://mirrors.neusoft.edu.cn/repoforge/redhat/el7/en/$ARCH/testing
 http://nl.mirror.eurid.eu/rpmforge/redhat/el7/en/$ARCH/testing
 http://repoforge.cu.be/redhat/el7/en/$ARCH/testing
 http://repoforge.eecs.wsu.edu/redhat/el7/en/$ARCH/testing
