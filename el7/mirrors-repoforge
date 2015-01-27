@@ -32,6 +32,7 @@ http://mirror.nexcess.net/repoforge/redhat/el7/en/$ARCH/rpmforge
 http://mirror.nl.leaseweb.net/dag/redhat/el7/en/$ARCH/rpmforge
 http://mirror.oss.maxcdn.com/repoforge/redhat/el7/en/$ARCH/rpmforge
 http://mirror.rit.edu/dag/redhat/el7/en/$ARCH/rpmforge
+http://mirror.smartmedia.net.id/repoforge/redhat/el7/en/$ARCH/rpmforge
 http://mirror.team-cymru.org/rpmforge/redhat/el7/en/$ARCH/rpmforge
 http://mirror.teklinks.com/repoforge/redhat/el7/en/$ARCH/rpmforge
 http://mirror.us.leaseweb.net/dag/redhat/el7/en/$ARCH/rpmforge
@@ -44,7 +45,6 @@ http://mirror.zetup.net/repoforge/redhat/el7/en/$ARCH/rpmforge
 http://mirror1.hs-esslingen.de/repoforge/redhat/el7/en/$ARCH/rpmforge
 http://mirrors.ircam.fr/pub/dag/redhat/el7/en/$ARCH/rpmforge
 http://mirrors.neterra.net/repoforge/redhat/el7/en/$ARCH/rpmforge
-http://mirrors.neusoft.edu.cn/repoforge/redhat/el7/en/$ARCH/rpmforge
 http://nl.mirror.eurid.eu/rpmforge/redhat/el7/en/$ARCH/rpmforge
 http://repoforge.cu.be/redhat/el7/en/$ARCH/rpmforge
 http://repoforge.eecs.wsu.edu/redhat/el7/en/$ARCH/rpmforge
