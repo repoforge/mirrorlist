@@ -1,4 +1,3 @@
-http://archive.cs.uu.nl/mirror/dag.wieers/redhat/el7/en/$ARCH/extras
 http://be.mirror.eurid.eu/rpmforge/redhat/el7/en/$ARCH/extras
 http://fr2.rpmfind.net/linux/dag/redhat/el7/en/$ARCH/extras
 http://ftp.cc.uoc.gr/mirrors/repoforge/redhat/el7/en/$ARCH/extras
@@ -21,7 +20,6 @@ http://mirror.ate.info/dag/redhat/el7/en/$ARCH/extras
 http://mirror.atrpms.net/repoforge/redhat/el7/en/$ARCH/extras
 http://mirror.bacloud.com/repoforge/redhat/el7/en/$ARCH/extras
 http://mirror.chpc.utah.edu/pub/repoforge/redhat/el7/en/$ARCH/extras
-http://mirror.cpsc.ucalgary.ca/mirror/dag/redhat/el7/en/$ARCH/extras
 http://mirror.crazynetwork.it/repoforge/redhat/el7/en/$ARCH/extras
 http://mirror.datacenter.mn/repoforge/redhat/el7/en/$ARCH/extras
 http://mirror.de.leaseweb.net/dag/redhat/el7/en/$ARCH/extras
