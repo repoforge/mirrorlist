@@ -1,4 +1,3 @@
-http://archive.cs.uu.nl/mirror/dag.wieers/redhat/el3/en/$ARCH/rpmforge
 http://be.mirror.eurid.eu/rpmforge/redhat/el3/en/$ARCH/rpmforge
 http://fr2.rpmfind.net/linux/dag/redhat/el3/en/$ARCH/rpmforge
 http://ftp.cc.uoc.gr/mirrors/repoforge/redhat/el3/en/$ARCH/rpmforge
@@ -6,11 +5,9 @@ http://ftp.colocall.net/pub/repoforge/redhat/el3/en/$ARCH/rpmforge
 http://ftp.fi.muni.cz/pub/linux/repoforge/redhat/el3/en/$ARCH/rpmforge
 http://ftp.heanet.ie/mirrors/ftp.freshrpms.net/pub/dag/redhat/el3/en/$ARCH/rpmforge
 http://ftp.kddilabs.jp/Linux/RPMS/repoforge/redhat/el3/en/$ARCH/rpmforge
-http://ftp.lug.ro/freshrpms/dag/redhat/el3/en/$ARCH/rpmforge
 http://ftp.neowiz.com/repoforge/redhat/el3/en/$ARCH/rpmforge
 http://ftp.nluug.nl/os/Linux/distr/repoforge/redhat/el3/en/$ARCH/rpmforge
 http://ftp.riken.jp/Linux/repoforge/redhat/el3/en/$ARCH/rpmforge
-http://ftp.tu-chemnitz.de/pub/linux/dag/redhat/el3/en/$ARCH/rpmforge
 http://ftp.wa.co.za/pub/repoforge/redhat/el3/en/$ARCH/rpmforge
 http://kartolo.sby.datautama.net.id/repoforge/redhat/el3/en/$ARCH/rpmforge
 http://merlin.fit.vutbr.cz/mirrors/repoforge/redhat/el3/en/$ARCH/rpmforge
@@ -28,12 +25,12 @@ http://mirror.datacenter.mn/repoforge/redhat/el3/en/$ARCH/rpmforge
 http://mirror.de.leaseweb.net/dag/redhat/el3/en/$ARCH/rpmforge
 http://mirror.fairway.ne.jp/dag/redhat/el3/en/$ARCH/rpmforge
 http://mirror.hmc.edu/repoforge/redhat/el3/en/$ARCH/rpmforge
-http://mirror.lug.udel.edu/pub/dag/redhat/el3/en/$ARCH/rpmforge
 http://mirror.nexcess.net/repoforge/redhat/el3/en/$ARCH/rpmforge
 http://mirror.nl.leaseweb.net/dag/redhat/el3/en/$ARCH/rpmforge
 http://mirror.oscc.org.my/dag/redhat/el3/en/$ARCH/rpmforge
 http://mirror.oss.maxcdn.com/repoforge/redhat/el3/en/$ARCH/rpmforge
 http://mirror.rit.edu/dag/redhat/el3/en/$ARCH/rpmforge
+http://mirror.smartmedia.net.id/repoforge/redhat/el3/en/$ARCH/rpmforge
 http://mirror.team-cymru.org/rpmforge/redhat/el3/en/$ARCH/rpmforge
 http://mirror.teklinks.com/repoforge/redhat/el3/en/$ARCH/rpmforge
 http://mirror.us.leaseweb.net/dag/redhat/el3/en/$ARCH/rpmforge
