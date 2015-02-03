@@ -5,6 +5,7 @@ http://ftp.colocall.net/pub/repoforge/redhat/el7/en/$ARCH/rpmforge
 http://ftp.fi.muni.cz/pub/linux/repoforge/redhat/el7/en/$ARCH/rpmforge
 http://ftp.heanet.ie/mirrors/ftp.freshrpms.net/pub/dag/redhat/el7/en/$ARCH/rpmforge
 http://ftp.kddilabs.jp/Linux/RPMS/repoforge/redhat/el7/en/$ARCH/rpmforge
+http://ftp.lug.ro/freshrpms/dag/redhat/el7/en/$ARCH/rpmforge
 http://ftp.neowiz.com/repoforge/redhat/el7/en/$ARCH/rpmforge
 http://ftp.nluug.nl/os/Linux/distr/repoforge/redhat/el7/en/$ARCH/rpmforge
 http://ftp.riken.jp/Linux/repoforge/redhat/el7/en/$ARCH/rpmforge
@@ -34,6 +35,7 @@ http://mirror.team-cymru.org/rpmforge/redhat/el7/en/$ARCH/rpmforge
 http://mirror.teklinks.com/repoforge/redhat/el7/en/$ARCH/rpmforge
 http://mirror.us.leaseweb.net/dag/redhat/el7/en/$ARCH/rpmforge
 http://mirror.ventraip.net.au/repoforge/redhat/el7/en/$ARCH/rpmforge
+http://mirror.vit.com.tr/mirror/repoforge/redhat/el7/en/$ARCH/rpmforge
 http://mirror.vutbr.cz/repoforge/redhat/el7/en/$ARCH/rpmforge
 http://mirror.web24.net.au/centos/redhat/el7/en/$ARCH/rpmforge
 http://mirror.webnx.com/dag/redhat/el7/en/$ARCH/rpmforge
