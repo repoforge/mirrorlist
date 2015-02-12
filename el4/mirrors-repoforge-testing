@@ -17,7 +17,6 @@ http://miroir.univ-paris13.fr/repoforge/redhat/el4/en/$ARCH/testing
 http://mirror-fpt-telecom.fpt.net/repoforge/redhat/el4/en/$ARCH/testing
 http://mirror.as24220.net/pub/repoforge/redhat/el4/en/$ARCH/testing
 http://mirror.ate.info/dag/redhat/el4/en/$ARCH/testing
-http://mirror.atrpms.net/repoforge/redhat/el4/en/$ARCH/testing
 http://mirror.bacloud.com/repoforge/redhat/el4/en/$ARCH/testing
 http://mirror.chpc.utah.edu/pub/repoforge/redhat/el4/en/$ARCH/testing
 http://mirror.crazynetwork.it/repoforge/redhat/el4/en/$ARCH/testing
@@ -34,7 +33,6 @@ http://mirror.team-cymru.org/rpmforge/redhat/el4/en/$ARCH/testing
 http://mirror.teklinks.com/repoforge/redhat/el4/en/$ARCH/testing
 http://mirror.us.leaseweb.net/dag/redhat/el4/en/$ARCH/testing
 http://mirror.ventraip.net.au/repoforge/redhat/el4/en/$ARCH/testing
-http://mirror.vit.com.tr/mirror/repoforge/redhat/el4/en/$ARCH/testing
 http://mirror.vutbr.cz/repoforge/redhat/el4/en/$ARCH/testing
 http://mirror.web24.net.au/centos/redhat/el4/en/$ARCH/testing
 http://mirror.webnx.com/dag/redhat/el4/en/$ARCH/testing
