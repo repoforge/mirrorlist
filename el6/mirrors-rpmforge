@@ -1,3 +1,4 @@
+http://archive.cs.uu.nl/mirror/dag.wieers/redhat/el6/en/$ARCH/rpmforge
 http://be.mirror.eurid.eu/rpmforge/redhat/el6/en/$ARCH/rpmforge
 http://fr2.rpmfind.net/linux/dag/redhat/el6/en/$ARCH/rpmforge
 http://ftp.cc.uoc.gr/mirrors/repoforge/redhat/el6/en/$ARCH/rpmforge
@@ -35,7 +36,6 @@ http://mirror.zetup.net/repoforge/redhat/el6/en/$ARCH/rpmforge
 http://mirror1.hs-esslingen.de/repoforge/redhat/el6/en/$ARCH/rpmforge
 http://mirrors.ircam.fr/pub/dag/redhat/el6/en/$ARCH/rpmforge
 http://mirrors.neterra.net/repoforge/redhat/el6/en/$ARCH/rpmforge
-http://mirrors.neusoft.edu.cn/repoforge/redhat/el6/en/$ARCH/rpmforge
 http://nl.mirror.eurid.eu/rpmforge/redhat/el6/en/$ARCH/rpmforge
 http://repoforge.cu.be/redhat/el6/en/$ARCH/rpmforge
 http://repoforge.ip-connect.vn.ua/redhat/el6/en/$ARCH/rpmforge
