@@ -2,6 +2,7 @@ http://be.mirror.eurid.eu/rpmforge/redhat/el5/en/$ARCH/testing
 http://fr2.rpmfind.net/linux/dag/redhat/el5/en/$ARCH/testing
 http://ftp.cc.uoc.gr/mirrors/repoforge/redhat/el5/en/$ARCH/testing
 http://ftp.heanet.ie/mirrors/ftp.freshrpms.net/pub/dag/redhat/el5/en/$ARCH/testing
+http://ftp.lug.ro/freshrpms/dag/redhat/el5/en/$ARCH/testing
 http://ftp.neowiz.com/repoforge/redhat/el5/en/$ARCH/testing
 http://ftp.nluug.nl/os/Linux/distr/repoforge/redhat/el5/en/$ARCH/testing
 http://ftp.riken.jp/Linux/repoforge/redhat/el5/en/$ARCH/testing
