@@ -1,5 +1,6 @@
 http://archive.cs.uu.nl/mirror/dag.wieers/redhat/el4/en/$ARCH/testing
 http://be.mirror.eurid.eu/rpmforge/redhat/el4/en/$ARCH/testing
+http://fr2.rpmfind.net/linux/dag/redhat/el4/en/$ARCH/testing
 http://ftp.cc.uoc.gr/mirrors/repoforge/redhat/el4/en/$ARCH/testing
 http://ftp.fi.muni.cz/pub/linux/repoforge/redhat/el4/en/$ARCH/testing
 http://ftp.heanet.ie/mirrors/ftp.freshrpms.net/pub/dag/redhat/el4/en/$ARCH/testing
@@ -24,6 +25,7 @@ http://mirror.hmc.edu/repoforge/redhat/el4/en/$ARCH/testing
 http://mirror.lug.udel.edu/pub/dag/redhat/el4/en/$ARCH/testing
 http://mirror.nexcess.net/repoforge/redhat/el4/en/$ARCH/testing
 http://mirror.nl.leaseweb.net/dag/redhat/el4/en/$ARCH/testing
+http://mirror.oscc.org.my/dag/redhat/el4/en/$ARCH/testing
 http://mirror.oss.maxcdn.com/repoforge/redhat/el4/en/$ARCH/testing
 http://mirror.rit.edu/dag/redhat/el4/en/$ARCH/testing
 http://mirror.teklinks.com/repoforge/redhat/el4/en/$ARCH/testing
