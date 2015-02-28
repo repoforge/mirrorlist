@@ -3,6 +3,7 @@ http://fr2.rpmfind.net/linux/dag/redhat/el5/en/$ARCH/extras
 http://ftp.cc.uoc.gr/mirrors/repoforge/redhat/el5/en/$ARCH/extras
 http://ftp.fi.muni.cz/pub/linux/repoforge/redhat/el5/en/$ARCH/extras
 http://ftp.heanet.ie/mirrors/ftp.freshrpms.net/pub/dag/redhat/el5/en/$ARCH/extras
+http://ftp.lug.ro/freshrpms/dag/redhat/el5/en/$ARCH/extras
 http://ftp.neowiz.com/repoforge/redhat/el5/en/$ARCH/extras
 http://ftp.nluug.nl/os/Linux/distr/repoforge/redhat/el5/en/$ARCH/extras
 http://ftp.riken.jp/Linux/repoforge/redhat/el5/en/$ARCH/extras
@@ -34,6 +35,7 @@ http://mirror1.hs-esslingen.de/repoforge/redhat/el5/en/$ARCH/extras
 http://mirrors.ircam.fr/pub/dag/redhat/el5/en/$ARCH/extras
 http://mirrors.ispros.com.bd/repoforge/redhat/el5/en/$ARCH/extras
 http://mirrors.neterra.net/repoforge/redhat/el5/en/$ARCH/extras
+http://mirrors.neusoft.edu.cn/repoforge/redhat/el5/en/$ARCH/extras
 http://nl.mirror.eurid.eu/rpmforge/redhat/el5/en/$ARCH/extras
 http://repoforge.cu.be/redhat/el5/en/$ARCH/extras
 http://repoforge.ip-connect.vn.ua/redhat/el5/en/$ARCH/extras
