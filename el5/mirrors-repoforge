@@ -25,6 +25,7 @@ http://mirror.hmc.edu/repoforge/redhat/el5/en/$ARCH/rpmforge
 http://mirror.lug.udel.edu/pub/dag/redhat/el5/en/$ARCH/rpmforge
 http://mirror.nexcess.net/repoforge/redhat/el5/en/$ARCH/rpmforge
 http://mirror.nl.leaseweb.net/dag/redhat/el5/en/$ARCH/rpmforge
+http://mirror.oscc.org.my/dag/redhat/el5/en/$ARCH/rpmforge
 http://mirror.oss.maxcdn.com/repoforge/redhat/el5/en/$ARCH/rpmforge
 http://mirror.rit.edu/dag/redhat/el5/en/$ARCH/rpmforge
 http://mirror.teklinks.com/repoforge/redhat/el5/en/$ARCH/rpmforge
