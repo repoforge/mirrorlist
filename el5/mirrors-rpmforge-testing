@@ -26,6 +26,7 @@ http://mirror.nl.leaseweb.net/dag/redhat/el5/en/$ARCH/testing
 http://mirror.oscc.org.my/dag/redhat/el5/en/$ARCH/testing
 http://mirror.oss.maxcdn.com/repoforge/redhat/el5/en/$ARCH/testing
 http://mirror.rit.edu/dag/redhat/el5/en/$ARCH/testing
+http://mirror.team-cymru.org/rpmforge/redhat/el5/en/$ARCH/testing
 http://mirror.teklinks.com/repoforge/redhat/el5/en/$ARCH/testing
 http://mirror.us.leaseweb.net/dag/redhat/el5/en/$ARCH/testing
 http://mirror.vutbr.cz/repoforge/redhat/el5/en/$ARCH/testing
