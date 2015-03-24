@@ -29,6 +29,7 @@ http://mirror.rit.edu/dag/redhat/el4/en/$ARCH/extras
 http://mirror.team-cymru.org/rpmforge/redhat/el4/en/$ARCH/extras
 http://mirror.teklinks.com/repoforge/redhat/el4/en/$ARCH/extras
 http://mirror.us.leaseweb.net/dag/redhat/el4/en/$ARCH/extras
+http://mirror.vit.com.tr/mirror/repoforge/redhat/el4/en/$ARCH/extras
 http://mirror.vutbr.cz/repoforge/redhat/el4/en/$ARCH/extras
 http://mirror.webnx.com/dag/redhat/el4/en/$ARCH/extras
 http://mirror.zetup.net/repoforge/redhat/el4/en/$ARCH/extras
@@ -41,5 +42,6 @@ http://repoforge.eecs.wsu.edu/redhat/el4/en/$ARCH/extras
 http://repoforge.gtdinternet.com/redhat/el4/en/$ARCH/extras
 http://repoforge.ip-connect.vn.ua/redhat/el4/en/$ARCH/extras
 http://repoforge.mirror.constant.com/redhat/el4/en/$ARCH/extras
+http://repoforge.mirror.digitalpacific.com.au/redhat/el4/en/$ARCH/extras
 http://repoforge.xpg.com.br/redhat/el4/en/$ARCH/extras
 http://www.mirrorservice.org/sites/apt.sw.be/redhat/el4/en/$ARCH/extras
