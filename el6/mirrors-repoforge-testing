@@ -18,6 +18,7 @@ http://mir01.syntis.net/repoforge/redhat/el6/en/$ARCH/testing
 http://miroir.univ-paris13.fr/repoforge/redhat/el6/en/$ARCH/testing
 http://mirror.as24220.net/pub/repoforge/redhat/el6/en/$ARCH/testing
 http://mirror.ate.info/dag/redhat/el6/en/$ARCH/testing
+http://mirror.atrpms.net/repoforge/redhat/el6/en/$ARCH/testing
 http://mirror.bacloud.com/repoforge/redhat/el6/en/$ARCH/testing
 http://mirror.chpc.utah.edu/pub/repoforge/redhat/el6/en/$ARCH/testing
 http://mirror.crazynetwork.it/repoforge/redhat/el6/en/$ARCH/testing
@@ -25,6 +26,7 @@ http://mirror.datacenter.mn/repoforge/redhat/el6/en/$ARCH/testing
 http://mirror.de.leaseweb.net/dag/redhat/el6/en/$ARCH/testing
 http://mirror.fairway.ne.jp/dag/redhat/el6/en/$ARCH/testing
 http://mirror.hmc.edu/repoforge/redhat/el6/en/$ARCH/testing
+http://mirror.lug.udel.edu/pub/dag/redhat/el6/en/$ARCH/testing
 http://mirror.nexcess.net/repoforge/redhat/el6/en/$ARCH/testing
 http://mirror.nl.leaseweb.net/dag/redhat/el6/en/$ARCH/testing
 http://mirror.oscc.org.my/dag/redhat/el6/en/$ARCH/testing
