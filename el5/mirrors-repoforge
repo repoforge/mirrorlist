@@ -43,6 +43,7 @@ http://mirrors.ircam.fr/pub/dag/redhat/el5/en/$ARCH/rpmforge
 http://mirrors.neterra.net/repoforge/redhat/el5/en/$ARCH/rpmforge
 http://mirrors.neusoft.edu.cn/repoforge/redhat/el5/en/$ARCH/rpmforge
 http://nl.mirror.eurid.eu/rpmforge/redhat/el5/en/$ARCH/rpmforge
+http://repoforge.cu.be/redhat/el5/en/$ARCH/rpmforge
 http://repoforge.eecs.wsu.edu/redhat/el5/en/$ARCH/rpmforge
 http://repoforge.ip-connect.vn.ua/redhat/el5/en/$ARCH/rpmforge
 http://repoforge.mirror.constant.com/redhat/el5/en/$ARCH/rpmforge
