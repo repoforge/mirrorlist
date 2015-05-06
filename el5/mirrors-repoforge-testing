@@ -1,3 +1,4 @@
+http://archive.cs.uu.nl/mirror/dag.wieers/redhat/el5/en/$ARCH/testing
 http://be.mirror.eurid.eu/rpmforge/redhat/el5/en/$ARCH/testing
 http://fr2.rpmfind.net/linux/dag/redhat/el5/en/$ARCH/testing
 http://ftp.cc.uoc.gr/mirrors/repoforge/redhat/el5/en/$ARCH/testing
@@ -35,6 +36,7 @@ http://mirror.team-cymru.org/rpmforge/redhat/el5/en/$ARCH/testing
 http://mirror.teklinks.com/repoforge/redhat/el5/en/$ARCH/testing
 http://mirror.us.leaseweb.net/dag/redhat/el5/en/$ARCH/testing
 http://mirror.ventraip.net.au/repoforge/redhat/el5/en/$ARCH/testing
+http://mirror.vit.com.tr/mirror/repoforge/redhat/el5/en/$ARCH/testing
 http://mirror.vutbr.cz/repoforge/redhat/el5/en/$ARCH/testing
 http://mirror.webnx.com/dag/redhat/el5/en/$ARCH/testing
 http://mirror.zetup.net/repoforge/redhat/el5/en/$ARCH/testing
