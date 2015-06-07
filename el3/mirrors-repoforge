@@ -7,16 +7,13 @@ http://ftp.heanet.ie/mirrors/ftp.freshrpms.net/pub/dag/redhat/el3/en/$ARCH/rpmfo
 http://ftp.kddilabs.jp/Linux/RPMS/repoforge/redhat/el3/en/$ARCH/rpmforge
 http://ftp.lug.ro/freshrpms/dag/redhat/el3/en/$ARCH/rpmforge
 http://ftp.neowiz.com/repoforge/redhat/el3/en/$ARCH/rpmforge
-http://ftp.nluug.nl/os/Linux/distr/repoforge/redhat/el3/en/$ARCH/rpmforge
 http://ftp.riken.jp/Linux/repoforge/redhat/el3/en/$ARCH/rpmforge
 http://ftp.tu-chemnitz.de/pub/linux/dag/redhat/el3/en/$ARCH/rpmforge
 http://ftp.wa.co.za/pub/repoforge/redhat/el3/en/$ARCH/rpmforge
 http://kartolo.sby.datautama.net.id/repoforge/redhat/el3/en/$ARCH/rpmforge
-http://merlin.fit.vutbr.cz/mirrors/repoforge/redhat/el3/en/$ARCH/rpmforge
 http://mir01.syntis.net/repoforge/redhat/el3/en/$ARCH/rpmforge
 http://miroir.univ-paris13.fr/repoforge/redhat/el3/en/$ARCH/rpmforge
 http://mirror.as24220.net/pub/repoforge/redhat/el3/en/$ARCH/rpmforge
-http://mirror.ate.info/dag/redhat/el3/en/$ARCH/rpmforge
 http://mirror.bacloud.com/repoforge/redhat/el3/en/$ARCH/rpmforge
 http://mirror.chpc.utah.edu/pub/repoforge/redhat/el3/en/$ARCH/rpmforge
 http://mirror.crazynetwork.it/repoforge/redhat/el3/en/$ARCH/rpmforge
@@ -37,7 +34,6 @@ http://mirror.ventraip.net.au/repoforge/redhat/el3/en/$ARCH/rpmforge
 http://mirror.vit.com.tr/mirror/repoforge/redhat/el3/en/$ARCH/rpmforge
 http://mirror.vutbr.cz/repoforge/redhat/el3/en/$ARCH/rpmforge
 http://mirror.webnx.com/dag/redhat/el3/en/$ARCH/rpmforge
-http://mirror.zetup.net/repoforge/redhat/el3/en/$ARCH/rpmforge
 http://mirrors.ircam.fr/pub/dag/redhat/el3/en/$ARCH/rpmforge
 http://mirrors.neusoft.edu.cn/repoforge/redhat/el3/en/$ARCH/rpmforge
 http://repoforge.cu.be/redhat/el3/en/$ARCH/rpmforge
