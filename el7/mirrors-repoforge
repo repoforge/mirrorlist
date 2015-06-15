@@ -22,6 +22,7 @@ http://mirror.rit.edu/dag/redhat/el7/en/$ARCH/rpmforge
 http://mirror.teklinks.com/repoforge/redhat/el7/en/$ARCH/rpmforge
 http://mirror.us.leaseweb.net/dag/redhat/el7/en/$ARCH/rpmforge
 http://mirror.vit.com.tr/mirror/repoforge/redhat/el7/en/$ARCH/rpmforge
+http://mirror.vutbr.cz/repoforge/redhat/el7/en/$ARCH/rpmforge
 http://mirror.webnx.com/dag/redhat/el7/en/$ARCH/rpmforge
 http://mirror1.hs-esslingen.de/repoforge/redhat/el7/en/$ARCH/rpmforge
 http://mirrors.ircam.fr/pub/dag/redhat/el7/en/$ARCH/rpmforge
