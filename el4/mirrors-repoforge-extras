@@ -1,5 +1,6 @@
 http://fr2.rpmfind.net/linux/dag/redhat/el4/en/$ARCH/extras
 http://ftp.cc.uoc.gr/mirrors/repoforge/redhat/el4/en/$ARCH/extras
+http://ftp.colocall.net/pub/repoforge/redhat/el4/en/$ARCH/extras
 http://ftp.fi.muni.cz/pub/linux/repoforge/redhat/el4/en/$ARCH/extras
 http://ftp.heanet.ie/mirrors/ftp.freshrpms.net/pub/dag/redhat/el4/en/$ARCH/extras
 http://ftp.neowiz.com/repoforge/redhat/el4/en/$ARCH/extras
@@ -12,6 +13,7 @@ http://merlin.fit.vutbr.cz/mirrors/repoforge/redhat/el4/en/$ARCH/extras
 http://mir01.syntis.net/repoforge/redhat/el4/en/$ARCH/extras
 http://miroir.univ-paris13.fr/repoforge/redhat/el4/en/$ARCH/extras
 http://mirror.ate.info/dag/redhat/el4/en/$ARCH/extras
+http://mirror.bacloud.com/repoforge/redhat/el4/en/$ARCH/extras
 http://mirror.datacenter.mn/repoforge/redhat/el4/en/$ARCH/extras
 http://mirror.de.leaseweb.net/dag/redhat/el4/en/$ARCH/extras
 http://mirror.fairway.ne.jp/dag/redhat/el4/en/$ARCH/extras
@@ -33,6 +35,5 @@ http://mirrors.neusoft.edu.cn/repoforge/redhat/el4/en/$ARCH/extras
 http://repoforge.cu.be/redhat/el4/en/$ARCH/extras
 http://repoforge.eecs.wsu.edu/redhat/el4/en/$ARCH/extras
 http://repoforge.ip-connect.vn.ua/redhat/el4/en/$ARCH/extras
-http://repoforge.spinellicreations.com/redhat/el4/en/$ARCH/extras
 http://repoforge.xpg.com.br/redhat/el4/en/$ARCH/extras
 http://www.mirrorservice.org/sites/apt.sw.be/redhat/el4/en/$ARCH/extras

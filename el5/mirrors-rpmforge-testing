@@ -1,5 +1,6 @@
 http://fr2.rpmfind.net/linux/dag/redhat/el5/en/$ARCH/testing
 http://ftp.cc.uoc.gr/mirrors/repoforge/redhat/el5/en/$ARCH/testing
+http://ftp.colocall.net/pub/repoforge/redhat/el5/en/$ARCH/testing
 http://ftp.fi.muni.cz/pub/linux/repoforge/redhat/el5/en/$ARCH/testing
 http://ftp.heanet.ie/mirrors/ftp.freshrpms.net/pub/dag/redhat/el5/en/$ARCH/testing
 http://ftp.neowiz.com/repoforge/redhat/el5/en/$ARCH/testing
@@ -12,6 +13,7 @@ http://merlin.fit.vutbr.cz/mirrors/repoforge/redhat/el5/en/$ARCH/testing
 http://mir01.syntis.net/repoforge/redhat/el5/en/$ARCH/testing
 http://miroir.univ-paris13.fr/repoforge/redhat/el5/en/$ARCH/testing
 http://mirror.ate.info/dag/redhat/el5/en/$ARCH/testing
+http://mirror.bacloud.com/repoforge/redhat/el5/en/$ARCH/testing
 http://mirror.datacenter.mn/repoforge/redhat/el5/en/$ARCH/testing
 http://mirror.de.leaseweb.net/dag/redhat/el5/en/$ARCH/testing
 http://mirror.fairway.ne.jp/dag/redhat/el5/en/$ARCH/testing
@@ -33,6 +35,5 @@ http://mirrors.neusoft.edu.cn/repoforge/redhat/el5/en/$ARCH/testing
 http://repoforge.cu.be/redhat/el5/en/$ARCH/testing
 http://repoforge.eecs.wsu.edu/redhat/el5/en/$ARCH/testing
 http://repoforge.ip-connect.vn.ua/redhat/el5/en/$ARCH/testing
-http://repoforge.spinellicreations.com/redhat/el5/en/$ARCH/testing
 http://repoforge.xpg.com.br/redhat/el5/en/$ARCH/testing
 http://www.mirrorservice.org/sites/apt.sw.be/redhat/el5/en/$ARCH/testing

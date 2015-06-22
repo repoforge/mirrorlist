@@ -1,5 +1,6 @@
 http://fr2.rpmfind.net/linux/dag/
 http://ftp.cc.uoc.gr/mirrors/repoforge/
+http://ftp.colocall.net/pub/repoforge/
 http://ftp.fi.muni.cz/pub/linux/repoforge/
 http://ftp.heanet.ie/mirrors/ftp.freshrpms.net/pub/dag/
 http://ftp.neowiz.com/repoforge/
@@ -12,6 +13,7 @@ http://merlin.fit.vutbr.cz/mirrors/repoforge/
 http://mir01.syntis.net/repoforge/
 http://miroir.univ-paris13.fr/repoforge/
 http://mirror.ate.info/dag/
+http://mirror.bacloud.com/repoforge/
 http://mirror.datacenter.mn/repoforge/
 http://mirror.de.leaseweb.net/dag/
 http://mirror.fairway.ne.jp/dag/
@@ -33,6 +35,5 @@ http://mirrors.neusoft.edu.cn/repoforge/
 http://repoforge.cu.be/
 http://repoforge.eecs.wsu.edu/
 http://repoforge.ip-connect.vn.ua/
-http://repoforge.spinellicreations.com/
 http://repoforge.xpg.com.br/
 http://www.mirrorservice.org/sites/apt.sw.be/
