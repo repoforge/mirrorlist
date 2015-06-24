@@ -5,7 +5,6 @@ http://ftp.fi.muni.cz/pub/linux/repoforge/redhat/el4/en/$ARCH/testing
 http://ftp.heanet.ie/mirrors/ftp.freshrpms.net/pub/dag/redhat/el4/en/$ARCH/testing
 http://ftp.kddilabs.jp/Linux/RPMS/repoforge/redhat/el4/en/$ARCH/testing
 http://ftp.lug.ro/freshrpms/dag/redhat/el4/en/$ARCH/testing
-http://ftp.neowiz.com/repoforge/redhat/el4/en/$ARCH/testing
 http://ftp.riken.jp/Linux/repoforge/redhat/el4/en/$ARCH/testing
 http://ftp.tu-chemnitz.de/pub/linux/dag/redhat/el4/en/$ARCH/testing
 http://ftp.wa.co.za/pub/repoforge/redhat/el4/en/$ARCH/testing
@@ -19,6 +18,7 @@ http://mirror.datacenter.mn/repoforge/redhat/el4/en/$ARCH/testing
 http://mirror.de.leaseweb.net/dag/redhat/el4/en/$ARCH/testing
 http://mirror.fairway.ne.jp/dag/redhat/el4/en/$ARCH/testing
 http://mirror.hmc.edu/repoforge/redhat/el4/en/$ARCH/testing
+http://mirror.lug.udel.edu/pub/dag/redhat/el4/en/$ARCH/testing
 http://mirror.nexcess.net/repoforge/redhat/el4/en/$ARCH/testing
 http://mirror.nl.leaseweb.net/dag/redhat/el4/en/$ARCH/testing
 http://mirror.oscc.org.my/dag/redhat/el4/en/$ARCH/testing
