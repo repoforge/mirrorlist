@@ -7,6 +7,7 @@ http://ftp.kddilabs.jp/Linux/RPMS/repoforge/redhat/el3/en/$ARCH/extras
 http://ftp.neowiz.com/repoforge/redhat/el3/en/$ARCH/extras
 http://ftp.nluug.nl/os/Linux/distr/repoforge/redhat/el3/en/$ARCH/extras
 http://ftp.riken.jp/Linux/repoforge/redhat/el3/en/$ARCH/extras
+http://ftp.tu-chemnitz.de/pub/linux/dag/redhat/el3/en/$ARCH/extras
 http://ftp.wa.co.za/pub/repoforge/redhat/el3/en/$ARCH/extras
 http://kartolo.sby.datautama.net.id/repoforge/redhat/el3/en/$ARCH/extras
 http://merlin.fit.vutbr.cz/mirrors/repoforge/redhat/el3/en/$ARCH/extras
@@ -45,4 +46,5 @@ http://repoforge.ip-connect.vn.ua/redhat/el3/en/$ARCH/extras
 http://repoforge.mirror.constant.com/redhat/el3/en/$ARCH/extras
 http://repoforge.mirror.digitalpacific.com.au/redhat/el3/en/$ARCH/extras
 http://repoforge.spinellicreations.com/redhat/el3/en/$ARCH/extras
+http://repoforge.xpg.com.br/redhat/el3/en/$ARCH/extras
 http://www.mirrorservice.org/sites/apt.sw.be/redhat/el3/en/$ARCH/extras
