@@ -1,3 +1,4 @@
+http://archive.cs.uu.nl/mirror/dag.wieers/redhat/el7/en/$ARCH/testing
 http://fr2.rpmfind.net/linux/dag/redhat/el7/en/$ARCH/testing
 http://ftp.cc.uoc.gr/mirrors/repoforge/redhat/el7/en/$ARCH/testing
 http://ftp.colocall.net/pub/repoforge/redhat/el7/en/$ARCH/testing
@@ -14,6 +15,7 @@ http://kartolo.sby.datautama.net.id/repoforge/redhat/el7/en/$ARCH/testing
 http://merlin.fit.vutbr.cz/mirrors/repoforge/redhat/el7/en/$ARCH/testing
 http://mir01.syntis.net/repoforge/redhat/el7/en/$ARCH/testing
 http://miroir.univ-paris13.fr/repoforge/redhat/el7/en/$ARCH/testing
+http://mirror.as24220.net/pub/repoforge/redhat/el7/en/$ARCH/testing
 http://mirror.ate.info/dag/redhat/el7/en/$ARCH/testing
 http://mirror.atrpms.net/repoforge/redhat/el7/en/$ARCH/testing
 http://mirror.bacloud.com/repoforge/redhat/el7/en/$ARCH/testing
