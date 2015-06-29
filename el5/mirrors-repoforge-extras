@@ -1,3 +1,4 @@
+http://archive.cs.uu.nl/mirror/dag.wieers/redhat/el5/en/$ARCH/extras
 http://fr2.rpmfind.net/linux/dag/redhat/el5/en/$ARCH/extras
 http://ftp.cc.uoc.gr/mirrors/repoforge/redhat/el5/en/$ARCH/extras
 http://ftp.colocall.net/pub/repoforge/redhat/el5/en/$ARCH/extras
@@ -41,5 +42,6 @@ http://repoforge.eecs.wsu.edu/redhat/el5/en/$ARCH/extras
 http://repoforge.ip-connect.vn.ua/redhat/el5/en/$ARCH/extras
 http://repoforge.mirror.constant.com/redhat/el5/en/$ARCH/extras
 http://repoforge.mirror.digitalpacific.com.au/redhat/el5/en/$ARCH/extras
+http://repoforge.spinellicreations.com/redhat/el5/en/$ARCH/extras
 http://repoforge.xpg.com.br/redhat/el5/en/$ARCH/extras
 http://www.mirrorservice.org/sites/apt.sw.be/redhat/el5/en/$ARCH/extras
