@@ -23,6 +23,7 @@ http://mirror.chpc.utah.edu/pub/repoforge/redhat/el7/en/$ARCH/testing
 http://mirror.cpsc.ucalgary.ca/mirror/dag/redhat/el7/en/$ARCH/testing
 http://mirror.datacenter.mn/repoforge/redhat/el7/en/$ARCH/testing
 http://mirror.de.leaseweb.net/dag/redhat/el7/en/$ARCH/testing
+http://mirror.fairway.ne.jp/dag/redhat/el7/en/$ARCH/testing
 http://mirror.hmc.edu/repoforge/redhat/el7/en/$ARCH/testing
 http://mirror.lug.udel.edu/pub/dag/redhat/el7/en/$ARCH/testing
 http://mirror.nexcess.net/repoforge/redhat/el7/en/$ARCH/testing
@@ -42,6 +43,7 @@ http://mirror1.hs-esslingen.de/repoforge/redhat/el7/en/$ARCH/testing
 http://mirrors.ircam.fr/pub/dag/redhat/el7/en/$ARCH/testing
 http://mirrors.neterra.net/repoforge/redhat/el7/en/$ARCH/testing
 http://repoforge.cu.be/redhat/el7/en/$ARCH/testing
+http://repoforge.eecs.wsu.edu/redhat/el7/en/$ARCH/testing
 http://repoforge.ip-connect.vn.ua/redhat/el7/en/$ARCH/testing
 http://repoforge.mirror.constant.com/redhat/el7/en/$ARCH/testing
 http://repoforge.mirror.digitalpacific.com.au/redhat/el7/en/$ARCH/testing
