@@ -6,6 +6,7 @@ http://ftp.fi.muni.cz/pub/linux/repoforge/redhat/el4/en/$ARCH/rpmforge
 http://ftp.heanet.ie/mirrors/ftp.freshrpms.net/pub/dag/redhat/el4/en/$ARCH/rpmforge
 http://ftp.kddilabs.jp/Linux/RPMS/repoforge/redhat/el4/en/$ARCH/rpmforge
 http://ftp.lug.ro/freshrpms/dag/redhat/el4/en/$ARCH/rpmforge
+http://ftp.neowiz.com/repoforge/redhat/el4/en/$ARCH/rpmforge
 http://ftp.riken.jp/Linux/repoforge/redhat/el4/en/$ARCH/rpmforge
 http://ftp.tu-chemnitz.de/pub/linux/dag/redhat/el4/en/$ARCH/rpmforge
 http://ftp.wa.co.za/pub/repoforge/redhat/el4/en/$ARCH/rpmforge
