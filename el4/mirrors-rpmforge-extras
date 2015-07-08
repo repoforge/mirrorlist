@@ -7,6 +7,7 @@ http://ftp.heanet.ie/mirrors/ftp.freshrpms.net/pub/dag/redhat/el4/en/$ARCH/extra
 http://ftp.kddilabs.jp/Linux/RPMS/repoforge/redhat/el4/en/$ARCH/extras
 http://ftp.lug.ro/freshrpms/dag/redhat/el4/en/$ARCH/extras
 http://ftp.neowiz.com/repoforge/redhat/el4/en/$ARCH/extras
+http://ftp.nluug.nl/os/Linux/distr/repoforge/redhat/el4/en/$ARCH/extras
 http://ftp.riken.jp/Linux/repoforge/redhat/el4/en/$ARCH/extras
 http://ftp.tu-chemnitz.de/pub/linux/dag/redhat/el4/en/$ARCH/extras
 http://ftp.wa.co.za/pub/repoforge/redhat/el4/en/$ARCH/extras
@@ -35,6 +36,7 @@ http://mirror.ventraip.net.au/repoforge/redhat/el4/en/$ARCH/extras
 http://mirror.vit.com.tr/mirror/repoforge/redhat/el4/en/$ARCH/extras
 http://mirror.vutbr.cz/repoforge/redhat/el4/en/$ARCH/extras
 http://mirror.webnx.com/dag/redhat/el4/en/$ARCH/extras
+http://mirror.zetup.net/repoforge/redhat/el4/en/$ARCH/extras
 http://mirror1.hs-esslingen.de/repoforge/redhat/el4/en/$ARCH/extras
 http://mirrors.ircam.fr/pub/dag/redhat/el4/en/$ARCH/extras
 http://mirrors.neterra.net/repoforge/redhat/el4/en/$ARCH/extras
