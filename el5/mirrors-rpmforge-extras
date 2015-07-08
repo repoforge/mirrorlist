@@ -29,9 +29,10 @@ http://mirror.teklinks.com/repoforge/redhat/el5/en/$ARCH/extras
 http://mirror.us.leaseweb.net/dag/redhat/el5/en/$ARCH/extras
 http://mirror.ventraip.net.au/repoforge/redhat/el5/en/$ARCH/extras
 http://mirror.vit.com.tr/mirror/repoforge/redhat/el5/en/$ARCH/extras
-http://mirror.vutbr.cz/repoforge/redhat/el5/en/$ARCH/extras
 http://mirror.webnx.com/dag/redhat/el5/en/$ARCH/extras
+http://mirror1.hs-esslingen.de/repoforge/redhat/el5/en/$ARCH/extras
 http://mirrors.ircam.fr/pub/dag/redhat/el5/en/$ARCH/extras
+http://mirrors.neterra.net/repoforge/redhat/el5/en/$ARCH/extras
 http://repoforge.cu.be/redhat/el5/en/$ARCH/extras
 http://repoforge.eecs.wsu.edu/redhat/el5/en/$ARCH/extras
 http://repoforge.gtdinternet.com/redhat/el5/en/$ARCH/extras
