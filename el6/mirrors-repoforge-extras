@@ -17,6 +17,7 @@ http://mirror.ate.info/dag/redhat/el6/en/$ARCH/extras
 http://mirror.bacloud.com/repoforge/redhat/el6/en/$ARCH/extras
 http://mirror.chpc.utah.edu/pub/repoforge/redhat/el6/en/$ARCH/extras
 http://mirror.datacenter.mn/repoforge/redhat/el6/en/$ARCH/extras
+http://mirror.de.leaseweb.net/dag/redhat/el6/en/$ARCH/extras
 http://mirror.fairway.ne.jp/dag/redhat/el6/en/$ARCH/extras
 http://mirror.hmc.edu/repoforge/redhat/el6/en/$ARCH/extras
 http://mirror.nexcess.net/repoforge/redhat/el6/en/$ARCH/extras
@@ -30,6 +31,7 @@ http://mirror.teklinks.com/repoforge/redhat/el6/en/$ARCH/extras
 http://mirror.us.leaseweb.net/dag/redhat/el6/en/$ARCH/extras
 http://mirror.ventraip.net.au/repoforge/redhat/el6/en/$ARCH/extras
 http://mirror.vit.com.tr/mirror/repoforge/redhat/el6/en/$ARCH/extras
+http://mirror.vutbr.cz/repoforge/redhat/el6/en/$ARCH/extras
 http://mirror1.hs-esslingen.de/repoforge/redhat/el6/en/$ARCH/extras
 http://mirrors.ircam.fr/pub/dag/redhat/el6/en/$ARCH/extras
 http://mirrors.neterra.net/repoforge/redhat/el6/en/$ARCH/extras
