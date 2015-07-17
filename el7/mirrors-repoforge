@@ -1,3 +1,4 @@
+http://archive.cs.uu.nl/mirror/dag.wieers/redhat/el7/en/$ARCH/rpmforge
 http://fr2.rpmfind.net/linux/dag/redhat/el7/en/$ARCH/rpmforge
 http://ftp.cc.uoc.gr/mirrors/repoforge/redhat/el7/en/$ARCH/rpmforge
 http://ftp.colocall.net/pub/repoforge/redhat/el7/en/$ARCH/rpmforge
@@ -12,7 +13,6 @@ http://ftp.tu-chemnitz.de/pub/linux/dag/redhat/el7/en/$ARCH/rpmforge
 http://ftp.wa.co.za/pub/repoforge/redhat/el7/en/$ARCH/rpmforge
 http://kartolo.sby.datautama.net.id/repoforge/redhat/el7/en/$ARCH/rpmforge
 http://merlin.fit.vutbr.cz/mirrors/repoforge/redhat/el7/en/$ARCH/rpmforge
-http://mir01.syntis.net/repoforge/redhat/el7/en/$ARCH/rpmforge
 http://miroir.univ-paris13.fr/repoforge/redhat/el7/en/$ARCH/rpmforge
 http://mirror.as24220.net/pub/repoforge/redhat/el7/en/$ARCH/rpmforge
 http://mirror.ate.info/dag/redhat/el7/en/$ARCH/rpmforge
