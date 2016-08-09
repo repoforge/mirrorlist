@@ -4,8 +4,10 @@ http://ftp.nluug.nl/os/Linux/distr/repoforge/redhat/el4/en/$ARCH/extras
 http://merlin.fit.vutbr.cz/mirrors/repoforge/redhat/el4/en/$ARCH/extras
 http://mir01.syntis.net/repoforge/redhat/el4/en/$ARCH/extras
 http://miroir.univ-paris13.fr/repoforge/redhat/el4/en/$ARCH/extras
+http://mirror.de.leaseweb.net/dag/redhat/el4/en/$ARCH/extras
 http://mirror.nexcess.net/repoforge/redhat/el4/en/$ARCH/extras
 http://mirror.nl.leaseweb.net/dag/redhat/el4/en/$ARCH/extras
+http://mirror.us.leaseweb.net/dag/redhat/el4/en/$ARCH/extras
 http://mirror.ventraip.net.au/repoforge/redhat/el4/en/$ARCH/extras
 http://mirror.vutbr.cz/repoforge/redhat/el4/en/$ARCH/extras
 http://mirror.zetup.net/repoforge/redhat/el4/en/$ARCH/extras
