@@ -4,6 +4,7 @@ http://ftp.nluug.nl/os/Linux/distr/repoforge/redhat/el5/en/$ARCH/rpmforge
 http://merlin.fit.vutbr.cz/mirrors/repoforge/redhat/el5/en/$ARCH/rpmforge
 http://mir01.syntis.net/repoforge/redhat/el5/en/$ARCH/rpmforge
 http://miroir.univ-paris13.fr/repoforge/redhat/el5/en/$ARCH/rpmforge
+http://mirror.crazynetwork.it/repoforge/redhat/el5/en/$ARCH/rpmforge
 http://mirror.de.leaseweb.net/dag/redhat/el5/en/$ARCH/rpmforge
 http://mirror.nexcess.net/repoforge/redhat/el5/en/$ARCH/rpmforge
 http://mirror.nl.leaseweb.net/dag/redhat/el5/en/$ARCH/rpmforge
