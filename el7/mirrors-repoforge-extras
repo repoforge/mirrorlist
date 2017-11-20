@@ -1,6 +1,5 @@
 http://ftp.cc.uoc.gr/mirrors/repoforge/redhat/el7/en/$ARCH/extras
 http://ftp.fi.muni.cz/pub/linux/repoforge/redhat/el7/en/$ARCH/extras
-http://ftp.is.co.za/mirror/ftp.rpmforge.net/redhat/el7/en/$ARCH/extras
 http://ftp.kddilabs.jp/Linux/RPMS/repoforge/redhat/el7/en/$ARCH/extras
 http://ftp.nluug.nl/os/Linux/distr/repoforge/redhat/el7/en/$ARCH/extras
 http://ftp.riken.jp/Linux/repoforge/redhat/el7/en/$ARCH/extras
@@ -42,6 +41,5 @@ http://repoforge.gtdinternet.com/redhat/el7/en/$ARCH/extras
 http://repoforge.mirror.constant.com/redhat/el7/en/$ARCH/extras
 http://repoforge.mirror.digitalpacific.com.au/redhat/el7/en/$ARCH/extras
 http://repoforge.mirror.wearetriple.com/redhat/el7/en/$ARCH/extras
-http://repoforge.spinellicreations.com/redhat/el7/en/$ARCH/extras
 http://repoforge.xpg.com.br/redhat/el7/en/$ARCH/extras
 https://mirrors.tuna.tsinghua.edu.cn/repoforge/redhat/el7/en/$ARCH/extras
