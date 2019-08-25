@@ -3,7 +3,6 @@ http://ftp.fi.muni.cz/pub/linux/repoforge/redhat/el5/en/$ARCH/rpmforge
 http://ftp.is.co.za/mirror/ftp.rpmforge.net/redhat/el5/en/$ARCH/rpmforge
 http://ftp.nluug.nl/os/Linux/distr/repoforge/redhat/el5/en/$ARCH/rpmforge
 http://ftp.surfsara.nl/pub/repoforge/redhat/el5/en/$ARCH/rpmforge
-http://kartolo.sby.datautama.net.id/repoforge/redhat/el5/en/$ARCH/rpmforge
 http://merlin.fit.vutbr.cz/mirrors/repoforge/redhat/el5/en/$ARCH/rpmforge
 http://mir01.syntis.net/repoforge/redhat/el5/en/$ARCH/rpmforge
 http://miroir.univ-paris13.fr/repoforge/redhat/el5/en/$ARCH/rpmforge
@@ -25,5 +24,4 @@ http://mirrors.netix.net/repoforge/redhat/el5/en/$ARCH/rpmforge
 http://repoforge.mirror.digitalpacific.com.au/redhat/el5/en/$ARCH/rpmforge
 http://repoforge.mirror.wearetriple.com/redhat/el5/en/$ARCH/rpmforge
 http://repoforge.spinellicreations.com/redhat/el5/en/$ARCH/rpmforge
-http://repoforge.xpg.com.br/redhat/el5/en/$ARCH/rpmforge
 https://mirrors.tuna.tsinghua.edu.cn/repoforge/redhat/el5/en/$ARCH/rpmforge
