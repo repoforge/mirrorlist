@@ -21,6 +21,7 @@ http://mirrors.ircam.fr/pub/dag/redhat/el4/en/$ARCH/testing
 http://mirrors.nav.ro/repoforge/redhat/el4/en/$ARCH/testing
 http://mirrors.netix.net/repoforge/redhat/el4/en/$ARCH/testing
 http://repoforge.mirror.digitalpacific.com.au/redhat/el4/en/$ARCH/testing
+http://repoforge.mirror.wearetriple.com/redhat/el4/en/$ARCH/testing
 http://repoforge.spinellicreations.com/redhat/el4/en/$ARCH/testing
 http://repoforge.xpg.com.br/redhat/el4/en/$ARCH/testing
 https://mirrors.tuna.tsinghua.edu.cn/repoforge/redhat/el4/en/$ARCH/testing
