@@ -21,5 +21,6 @@ http://mirrors.nav.ro/repoforge/redhat/el3/en/$ARCH/rpmforge
 http://mirrors.neterra.net/repoforge/redhat/el3/en/$ARCH/rpmforge
 http://mirrors.netix.net/repoforge/redhat/el3/en/$ARCH/rpmforge
 http://repoforge.mirror.digitalpacific.com.au/redhat/el3/en/$ARCH/rpmforge
+http://repoforge.mirror.wearetriple.com/redhat/el3/en/$ARCH/rpmforge
 http://repoforge.spinellicreations.com/redhat/el3/en/$ARCH/rpmforge
 https://mirrors.tuna.tsinghua.edu.cn/repoforge/redhat/el3/en/$ARCH/rpmforge
