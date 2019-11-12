@@ -8,7 +8,6 @@ http://merlin.fit.vutbr.cz/mirrors/repoforge/redhat/el6/en/$ARCH/extras
 http://mir01.syntis.net/repoforge/redhat/el6/en/$ARCH/extras
 http://miroir.univ-paris13.fr/repoforge/redhat/el6/en/$ARCH/extras
 http://mirror.as24220.net/pub/repoforge/redhat/el6/en/$ARCH/extras
-http://mirror.awanti.com/rpmforge/dag/redhat/el6/en/$ARCH/extras
 http://mirror.bacloud.com/repoforge/redhat/el6/en/$ARCH/extras
 http://mirror.chpc.utah.edu/pub/repoforge/redhat/el6/en/$ARCH/extras
 http://mirror.crazynetwork.it/repoforge/redhat/el6/en/$ARCH/extras
@@ -21,6 +20,7 @@ http://mirrors.ircam.fr/pub/dag/redhat/el6/en/$ARCH/extras
 http://mirrors.nav.ro/repoforge/redhat/el6/en/$ARCH/extras
 http://mirrors.neterra.net/repoforge/redhat/el6/en/$ARCH/extras
 http://mirrors.netix.net/repoforge/redhat/el6/en/$ARCH/extras
+http://repoforge.ip-connect.vn.ua/redhat/el6/en/$ARCH/extras
 http://repoforge.mirror.digitalpacific.com.au/redhat/el6/en/$ARCH/extras
 http://repoforge.mirror.wearetriple.com/redhat/el6/en/$ARCH/extras
 http://repoforge.spinellicreations.com/redhat/el6/en/$ARCH/extras
